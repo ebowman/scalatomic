@@ -1,1 +1,4 @@
 Scala library that wraps Java atomics.
+
+Somewhat inspired by http://naedyr.blogspot.com/2011/03/atomic-scala.html
+
